@@ -7,6 +7,7 @@ echo -ne '#####                      (33%)\r'
 
 cp -rf Rhce  /var/www/html/Rhce     > /dev/null 2>&1
 systemctl  restart httpd   > /dev/null 2>&1
+export ANSIBLE_CONFIG=/home/student/data/ansible.cfg
 sudo -u student  mkdir /home/student/data
 sudo -u student  cd /home/student/data
 wget -P /home/student/data http://localhost/Rhce/mock2/inventory    > /dev/null 2>&1
