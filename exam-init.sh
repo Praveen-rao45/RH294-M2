@@ -18,5 +18,5 @@ echo -ne '##############             (50%)\r'
 
 wget -P /root/RH294-M2 http://localhost/Rhce/initialscripts.sh    > /dev/null 2>&1
 
-sh /root/RH294-M2initialscripts.sh > /dev/null 2>&1
+sh /root/RH294-M2/initialscripts.sh > /dev/null 2>&1
 echo -ne '###########################(100%)\n'
