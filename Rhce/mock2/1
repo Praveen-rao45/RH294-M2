@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<body style="background-color: lightyellow;">
+<form method=post><br>
+<h1><center> EX294 MOCK EXAMINATION</center></h1>
+
+<center>&nbsp &nbsp &nbsp &nbsp <img src="RedHat.jpg" border="1" height="150" width="180"> </center><br> 
+<br>
+<p class="P3">Additional setup information &nbsp;</p>
+<p class="P3">Your Domainname:-   lab.example.com &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;Other Domainname:- remote.test </p>
+<p class="P3">Your Network    172.25.250.0/255.255.255.0 &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Other Network  172.24.250.0/255.255.255.0</p>
+<p class="P3">Hostname and ip addresses :  &nbsp; &nbsp;</p>
+<p class="P3">workstation.lab.example.com  - 172.25.250.9  &nbsp; &nbsp; </p>
+<p class="P3">servera.lab.example.com    - 172.25.250.10 &nbsp; &nbsp;</p>
+<p class="P3">serverb.lab.example.com    - 172.25.250.11 &nbsp; &nbsp;</p>
+<p class="P3">serverc.lab.example.com - 172.25.250.12  &nbsp; &nbsp;</p>
+<p class="P3">serverd.lab.example.com - 172.25.250.13  &nbsp; &nbsp;</p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<p class="P3">* your root user password is redhat</p>
+<br><br>
+<inop>
+</body>
+</html>
+
