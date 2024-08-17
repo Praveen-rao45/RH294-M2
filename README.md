@@ -4,7 +4,7 @@
 
 # su - root
 # password: redhat
-# git clone https://github.com/Prithivrajgankai/RH294-M2.git
+# git clone https://github.com/Praveen-rao45/RH294-M2.git
 # cd RH294-M2
 # sh exam-init.sh
 # Now open firefox and type "http://localhost/Rhce/mock2/"
